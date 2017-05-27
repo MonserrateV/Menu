@@ -1,0 +1,111 @@
+var appetizers = [{
+        "name": "Jumbo shrimp Cocktail",
+        "price": "$11.99",
+        "discription": "Jumbo shrimp seated on top of our homemade Cocktail sauce, garnished with a lemon wedge."
+
+    },
+    {
+        "name": "Steamed CLams",
+        "price": "$9.99",
+        "discription": " Fresh cleaned clams steamed to perfection. Garnished with a lemon wedge and lemon sauce."
+
+    },
+    {
+        "name": "Jalape&ntilde;o Poppers",
+        "price": "$7.99",
+        "discription": "Fried Cheesy stuffed Jalape&ntilde;os."
+    },
+    {
+        "name": "Fresh Calamari",
+        "price": "$9.99",
+        "discription": "Fresh Calamari in a olive oil and mixed herbs rub."
+    }
+];
+
+var sideDishes = [{
+        "name": "Leafy Greens Salad",
+        "price": "$5.99",
+        "discription": "Green garden salad,Your chioce of cheese and dressing. Comes with two freshly scliced pieces of bread."
+    },
+    {
+        "name": "Soup of the Day",
+        "price": "$3.99",
+        "discription": " Our soup of the day will a nice hot bowl of Tomatoe Soup."
+    },
+    {
+        "name": "Antipasto",
+        "price": "$10.99",
+        "discription": "Our Antipesto mix tray."
+    },
+    {
+        "name": "Pasta E. Fagioli",
+        "price": "$5.99",
+        "discription": "Our homemade Italian Pasta E.Fagioli. "
+    }
+];
+
+var entrees1 = [{
+        "name": "Louisa&#39;s Fettuccine Alfredo",
+        "price": "$17.50",
+        "discription": "None other than Louis&#39;s Homemade Fettucine Alfredo. With or without shrimp."
+    },
+    {
+        "name": "Homemade Macaroni",
+        "price": "$16.65",
+        "discription": " Our homemade Macaroni. With your choice of beef or chicken."
+    },
+    {
+        "name": "Homemade Baked Lasagna",
+        "price": "$17.65",
+        "discription": "A beautifully baked, homemade lasagna."
+    },
+    {
+        "name": "Homemade Baked Manicotti",
+        "price": "$16.65",
+        "discription": "Homemade bake manicotti, with Italian pasta sauce and drizzled with cheese."
+    }
+];
+
+var entrees2 = [{
+        "name": "Broiled New York Strip Steak",
+        "price": "$34.99",
+        "discription": "A New York style strip steak broiled to perfection."
+    },
+    {
+        "name": "Broiled Pork Chops",
+        "price": "$20.80",
+        "discription": "ork chops broiled to perfection. With a Baked potatoe seasoned with your choice of sour cream or butter."
+    },
+    {
+        "name": "Chicken Parmigiana ",
+        "price": "$16.99",
+        "discription": "Our breaded chicken baked with Mozzeralla cheese."
+    },
+    {
+        "name": "Fried Scallops",
+        "price": "$23.99",
+        "discription": "Fried scallops over a fresh bowl of salad. "
+    }
+];
+
+var drinkSpecialties = [{
+        "name": "Pretty In pink",
+        "price": "$9.99",
+        "discription": "A beautifully tasting Pink champagne that will <br /> leave you with a sweet taste on your tongue."
+    },
+    {
+        "name": "Espresso Martini",
+        "price": "$9.99",
+        "discription": "A wonderful flavor of espresso with a martini twist"
+    },
+    {
+        "name": "Strawberry Mojito",
+        "price": "$9.99",
+        "discription": " A strawberry mojito, garnished with mint and a<br /> strawberry."
+    },
+    {
+        "name": "Sweet Tea",
+        "price": "$9.99",
+        "discription": "Sweet tea with a twist. Delicious flavors to make your mouth water."
+    }
+];
